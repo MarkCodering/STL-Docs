@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'STL Documentation',
   tagline: 'Go for launch',
-  url: 'https://stldocs.com',
+  url: 'https://stldocs.azurewebsites.net/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -50,7 +50,7 @@ module.exports = {
             },
             {
               label: 'Avionics Team',
-              to: '/docs/avionics/',
+              to: '/docs/avionic/',
             },
           ],
         },

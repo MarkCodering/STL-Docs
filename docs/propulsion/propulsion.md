@@ -1,6 +1,7 @@
 ---
 id: propulsion_intro
 title: STL Propulsion Team Docs
+slug: /propulsion
 ---
 
 # STL Propulsion Team Docs
